@@ -8,17 +8,21 @@ I'm a graduate student at Wayne State University, specializing in computational 
 
 In addition to my academic pursuits, I share my knowledge and experiences through blogging and content creation, shedding light on complex topics in a simplified manner.
 
-<p align="left">
-   <a href="https://www.youtube.com/your-youtube-channel">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="your-youtube-subscribe-badge-url"/></a>
-   <a href="https://www.instagram.com/frimpsjoek">
-      <img alt="instagram followers" title="Follow me on Instagram" src="your-instagram-follow-badge-url"/></a>
-   <a href="https://github.com/your-github-username?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="your-github-follow-badge-url"/></a>
-   <a href="https://github.com/your-github-username?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="your-github-stars-badge-url"/></a>
-</p>
 
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
 ---
 
 ### 🧪 Research and Interests
@@ -49,7 +53,6 @@ In addition to my academic pursuits, I share my knowledge and experiences throug
 [instagram]: https://www.instagram.com/frimpsjoek
 [github]: https://github.com/frimpsjoek
 
-Please replace the placeholders (`your-youtube-channel`, `your-youtube-subscribe-badge-url`, etc.) with your actual information and URLs.
 
 <!--
 **frimpsjoek/frimpsjoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
