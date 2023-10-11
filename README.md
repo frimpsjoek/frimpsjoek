@@ -1,5 +1,3 @@
-Certainly! Here's a template for your profile:
-
 # 👨‍🔬 Joseph Frimpong
 
 **`Graduate Student in Computational Chemistry and Content Creator`**
