@@ -1,55 +1,28 @@
-# 👨‍🔬 Joseph Frimpong
+# Joseph Frimpong
 
-**`Postdoctoral Reseacher in ML + Electronic Structure`**
+**`Postdoctoral Researcher in AI for Science: AI Agents, ML + Electronic Structure`**
 
-NOW, working at Argonne National Laboratory. I was a graduate student at Wayne State University, specializing in electronic structure calculations with Many-body Perturbation Theory (GW + BSE). My work involves Density Functional Theory (DFT), GW + BSE, and programming languages like Python and Fortran to understand and discover new materials. I'm also interested in embedding device engineering, data science, and machine learning.
+[Website](https://frimpsjoek.github.io) · [Blog](https://frimpsjoek.github.io/blog/) · [LinkedIn](https://linkedin.com/in/josephfrimpong) · [YouTube](https://www.youtube.com/frimpsjoek)
 
-In addition to my academic pursuits, I aspire to share my knowledge and experiences through blogging, shedding light on complex topics in a simplified manner.
+I am a postdoctoral researcher at Argonne National Laboratory, working on AI for science with expertise in AI agents, machine learning, and electronic structure.
 
-### 🧰 Languages and Tools
+I earned my PhD at Wayne State University, specializing in electronic structure calculations with many-body perturbation theory (GW + BSE). My background combines density functional theory (DFT), GW + BSE, and high-performance computing to understand and discover new materials.
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+I also share what I learn on my [blog](https://frimpsjoek.github.io/blog/), explaining complex topics in a simple way.
 
-#
----
+### Languages and Tools
 
-### 🧪 Research and Interests
+<img alt="Python" height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Fortran" height="28" src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" /> <img alt="Bash" height="28" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img alt="Git" height="28" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Linux" height="28" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" /> <img alt="HTML" height="28" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS" height="28" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" />
 
-- 🧬 Computational Chemistry
-- 🌐 Density Functional Theory (DFT)
-- 💡 GW Calculations
-- 🖥️ Programming (Python, Fortran)
-- 🌐 Embedding Device Engineering
-- 📊 Machine Learning + AI
+<img alt="Claude Code" height="28" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" /> <img alt="Codex" height="28" src="https://img.shields.io/badge/Codex-412991?style=flat-square" /> <img alt="Gemini CLI" height="28" src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 
-#
+### Research and Interests
 
-<details>
- <summary><h3>📚 Find Me on </h3></summary>
-[website]: https://josephfrimpong.com
-[youtube]: https://www.youtube.com/frimpsjoek
-[instagram]: https://www.instagram.com/frimpsjoek
-[github]: https://github.com/frimpsjoek
-
-
-<!--
-**frimpsjoek/frimpsjoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI for Science
+- AI Agents
+- Machine Learning
+- Computational Chemistry
+- Density Functional Theory (DFT)
+- GW + BSE Calculations
+- High-Performance Computing
+- Embedded Device Engineering
